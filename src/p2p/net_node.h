@@ -125,9 +125,9 @@ namespace nodetool
   private:
     const std::vector<std::string> m_seed_nodes_list =
     { "seeds.bitcoinshare.io"
-    , ""
-    , ""
-    , ""
+    , "seeds1.bitcoinshare.io"
+    , "seeds2.bitcoinshare.io"
+    , "seeds3.bitcoinshare.io"
     };
 
     bool islimitup=false;
